@@ -10,6 +10,9 @@ public class ThirdActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.third);
 		
+		//test
+		
+		
 		ImageView iv = (ImageView)findViewById(R.id.imageView1);
 		iv.setImageResource(R.drawable.bea);
 		
