@@ -15,6 +15,9 @@ public class SecondActivity extends Activity {
 		setContentView(R.layout.second);
 		
 		//
+		
+		// Test for Git
+		
 		Button b2 = (Button) findViewById(R.id.Button1);
 		b2.setOnClickListener(new View.OnClickListener() {
 			
